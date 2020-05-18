@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-// BOJ 1929
+// 소수 구하기
 int main() {
 	int N, M;
 	int j;
