@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// 피보나치 함수
 int dp[41];
 int fib(int n);
 
